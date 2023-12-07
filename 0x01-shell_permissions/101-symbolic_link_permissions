@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h betty:My_dir _hello
+chown -h betty:_hello
