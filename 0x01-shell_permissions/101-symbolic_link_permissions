@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h _helio/vincent
+chown -h vincent:staff _hello
