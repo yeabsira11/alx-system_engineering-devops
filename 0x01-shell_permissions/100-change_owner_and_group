@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty:my_dir *
+chown betty:vincent chgrp staff *
